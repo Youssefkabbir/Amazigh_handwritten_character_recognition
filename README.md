@@ -1,6 +1,9 @@
 #                                               <p align="center">          **Amazigh_handwritten_character_recognition** </p>
 <p align="center">
-    <img width="300" src="https://i.pinimg.com/originals/11/0c/a4/110ca4166d4c0f7c55f711942232b5f0.jpg" alt="Material Bread logo">
+    <img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9sDlk2XXCC-JPeFrHWgr3w3ev8a2nw9A6w&usqp=CAU" alt="Material Bread logo">
+</p>
+<p align="center">
+    <img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlEfe2Ze-DVccQu1Y9CMJpmCMLwO4j95CaQ&usqp=CAU" alt="Material Bread logo">
 </p>
 
 [![Downloads](https://img.shields.io/badge/Opencv-install-blue)](https://pypi.org/project/opencv-python)
